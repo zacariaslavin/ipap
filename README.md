@@ -28,6 +28,14 @@ Agustin Parmisano Sabbione 2023
 
 
 
+El repositrio que clone es un curso de analisis de datos
+
+## ramas en GIT
+
+https://git-scm.com/book/es/v2/Ramificaciones-en-Git-¿Qué-es-una-rama%3F
+
+https://www.atlassian.com/es/git/tutorials/using-branches
+
 
 Instituto Provincial de la Administración Pública (IPAP) | ipap.gba.gob.ar
 IPAP | PROGRAMA AGENTES DEL ESTADO
